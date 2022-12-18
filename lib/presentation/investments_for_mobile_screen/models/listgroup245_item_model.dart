@@ -1,0 +1,1 @@
+class Listgroup245ItemModel {}
